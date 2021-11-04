@@ -1,0 +1,8 @@
+1. banner 右側+介紹
+2. 各section + 標題
+3. card 圖片高度統一調整 done
+4. banner 圖片調整
+
+
+
+rwd 調整
