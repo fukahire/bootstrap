@@ -130,7 +130,7 @@ section {
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  font-size: 25px;
+  font-size: 20px;
   text-transform: uppercase;
   font-weight: 700;
   color: #F96823;

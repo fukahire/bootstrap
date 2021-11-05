@@ -1,5 +1,5 @@
-1. banner 右側+介紹
-2. 各section + 標題
+1. banner 右側+介紹 done
+2. 各section + 標題 done
 3. card 圖片高度統一調整 done
 4. banner 圖片調整
 
