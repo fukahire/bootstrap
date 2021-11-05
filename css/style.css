@@ -54,13 +54,23 @@ header .navbar .container-fluid .navbar-brand {
 }
 
 section {
-  margin-bottom: 30px;
+  margin-bottom: 45px;
+}
+
+.combine .container-md h4 {
+  margin-bottom: 25px;
+  color: #5e1937;
+  font-weight: 800;
 }
 
 .combine .container-md .row {
   -webkit-box-pack: space-evenly;
       -ms-flex-pack: space-evenly;
           justify-content: space-evenly;
+}
+
+.combine .container-md .row .col-3 img {
+  width: 100%;
 }
 
 .combine .container-md .row .card {
